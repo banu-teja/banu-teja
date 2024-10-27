@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
 ---
