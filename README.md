@@ -108,14 +108,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" />
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=radical" alt="Your GitHub Stats" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" />
+</div> -->
+
 
 ---
 
