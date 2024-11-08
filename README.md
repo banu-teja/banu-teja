@@ -111,7 +111,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="195px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" /> -->
 </div>
 
 <!-- <div align="center">
