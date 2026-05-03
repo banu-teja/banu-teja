@@ -12,21 +12,17 @@
 <br/>
 
 ```yaml
-name    : Pappala Banuteja Naidu
-role    : Software Engineer · AI/ML Platform @ Elastiq.AI
+name    : Bhanu Teja
+role    : AI/ML Engineer @ Elastiq.AI
 location: Hyderabad, India  (open to relocation)
 
-impact:
-  - Deployed multi-modal search over 500K+ assets (CLIP + OpenSearch on Kubernetes)
-  - Distributed ETL processing 2.5M records/day — 99.97% success over 8 months
-  - ML query classifier → cut infra costs $4.2K/month, serving 10K+ DAU
-  - Vision-LLM pipeline for 12+ healthcare PDF formats (Claude Sonnet)
+focus   : [ "multi-modal AI", "LLM systems", "distributed data pipelines" ]
+stack   : [ "Python", "Go", "GCP", "Kubernetes" ]
 
-currently_building:
-  - On-prem AI search infrastructure at Elastiq.AI
-  - Starting open-source contributions: LLM tooling · ML infra · distributed systems
+building: "on-prem AI search + analytics infrastructure"
+learning: "open source — LLM tooling · vector search · distributed systems"
 
-ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipelines" ]
+reach   : "bhanuteja.pappala@gmail.com"
 ```
 
 <br/>
@@ -103,20 +99,6 @@ LangChain Go · OS/shell-aware command generation · Multi-provider LLM switchin
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=banu-teja&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" />
-
-</div>
-
-<br/>
-
-## 🏆 Recognition
-
-<div align="center">
-
-| | |
-|:---|:---|
-| ☁️ **Google Cloud Professional Database Engineer** | ☁️ **Azure Data Scientist Associate (DP-100)** |
-| 🥇 **Top Talent 2023** · Persistent Systems | LLM SQL migration tool — showcased to Google Cloud Professional Services |
-| 🏅 **High Five Award 2024** · Persistent Systems | Exceptional problem-solving and cross-functional impact |
 
 </div>
 
