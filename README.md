@@ -60,18 +60,34 @@ ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipe
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/banu-teja/sentinel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=sentinel&theme=tokyonight&hide_border=true&border_radius=12&show_description=true" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/banu-teja/ai-cli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=ai-cli&theme=tokyonight&hide_border=true&border_radius=12&show_description=true" width="100%" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🔧 sentinel](https://github.com/banu-teja/sentinel)
+Production-grade **distributed rate-limiting gateway** in Go
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+Hexagonal architecture · Redis token-bucket enforcement · Sony gobreaker circuit breaker · Prometheus metrics · OpenTelemetry distributed tracing
+
+</td>
+<td width="50%" valign="top">
+
+### [🤖 ai-cli](https://github.com/banu-teja/ai-cli)
+**Natural language → shell commands** using LLMs
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=flat-square&logo=anthropic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+LangChain Go · OS/shell-aware command generation · Multi-provider LLM switching · SQLC-generated type-safe history
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -82,12 +98,7 @@ ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" width="41%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
+<img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true&border_radius=12" width="55%" />
 
 <br/><br/>
 
