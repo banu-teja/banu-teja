@@ -35,8 +35,7 @@ ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipe
 
 <div align="center">
 
-**AI / ML**&nbsp;&nbsp;
-`LLMs (GPT · Gemini · Claude)` &nbsp; `CLIP` &nbsp; `Whisper / TTS / VAD` &nbsp; `RAG` &nbsp; `SentenceBERT` &nbsp; `Vector DBs`
+**AI / ML** &nbsp;&nbsp; `LLMs (GPT · Gemini · Claude)` &nbsp; `CLIP` &nbsp; `Whisper / TTS / VAD` &nbsp; `RAG` &nbsp; `SentenceBERT` &nbsp; `Vector DBs`
 
 <br/>
 
@@ -60,7 +59,20 @@ ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipe
 
 <div align="center">
 
-[![sentinel](https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=sentinel&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/banu-teja/sentinel)&nbsp;&nbsp;[![ai-cli](https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=ai-cli&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/banu-teja/ai-cli)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/banu-teja/sentinel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=sentinel&theme=tokyonight&hide_border=true&border_radius=12&show_description=true" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/banu-teja/ai-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=ai-cli&theme=tokyonight&hide_border=true&border_radius=12&show_description=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -70,9 +82,16 @@ ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" />&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" width="41%" />
 
-<img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true&border_radius=12" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=banu-teja&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" />
 
 </div>
 
