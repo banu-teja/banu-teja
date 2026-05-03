@@ -1,113 +1,95 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2196F3&height=200&section=header&text=Bhanu%20Teja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Infrastructure%20%C2%B7%20Multi-Modal%20Systems%20%C2%B7%20Distributed%20Pipelines&descAlignY=58&descSize=16&descColor=90CAF9" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bhanu+Teja+%F0%9F%91%8B;AI%2FML+Infrastructure+Engineer;Multi-Modal+Search+%26+LLM+Systems;Building+production+AI+at+scale" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://banuteja.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanutejap)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuteja.pappala@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://banuteja.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuteja.pappala@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhanuteja_naidu)
 
 </div>
 
----
+<br/>
 
-## 🧠 What I Build
+```yaml
+name    : Pappala Banuteja Naidu
+role    : Software Engineer · AI/ML Platform @ Elastiq.AI
+location: Hyderabad, India  (open to relocation)
 
+impact:
+  - Deployed multi-modal search over 500K+ assets (CLIP + OpenSearch on Kubernetes)
+  - Distributed ETL processing 2.5M records/day — 99.97% success over 8 months
+  - ML query classifier → cut infra costs $4.2K/month, serving 10K+ DAU
+  - Vision-LLM pipeline for 12+ healthcare PDF formats (Claude Sonnet)
+
+currently_building:
+  - On-prem AI search infrastructure at Elastiq.AI
+  - Starting open-source contributions: LLM tooling · ML infra · distributed systems
+
+ask_me_about: [ "multi-modal retrieval", "LLM systems", "GCP", "distributed pipelines" ]
 ```
-🔍 Multi-Modal AI      │ CLIP search over 500K+ assets · vision-LLM doc pipelines · hybrid retrieval over 17M+ catalog
-🤖 LLM Systems         │ text2sql · RAG pipelines · ML query classifiers saving $4.2K/month · showcased to Google Cloud
-📊 Data Infrastructure │ Apache Beam/Dataflow · 2.5M records/day · 99.97% success rate · exactly-once semantics
-🎙️ Voice AI            │ Real-time agents · streaming ASR (Whisper) + TTS + VAD
-```
 
----
-
-## 🔭 Currently
-
-- 🚀 Building AI/ML platform at **Elastiq.AI** — on-prem multi-modal search, text2sql analytics, A/B model routing
-- 🌱 Starting to contribute to open source — LLM tooling, ML infra, vector search, distributed systems
-- 💬 Ask me about AI/ML infra, GCP, multi-modal retrieval, distributed pipelines, or LLM evaluation
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT%20%7C%20Gemini%20%7C%20Claude-412991?style=flat-square&logo=openai&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP_(Multi--Modal)-FF6B35?style=flat-square&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_(ASR%2FTTS%2FVAD)-00B4D8?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-5C6BC0?style=flat-square&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DBs_(OpenSearch%20%7C%20pgvector)-E91E63?style=flat-square&logoColor=white)
-![SentenceBERT](https://img.shields.io/badge/SentenceBERT-FF9800?style=flat-square&logoColor=white)
+**AI / ML**&nbsp;&nbsp;
+`LLMs (GPT · Gemini · Claude)` &nbsp; `CLIP` &nbsp; `Whisper / TTS / VAD` &nbsp; `RAG` &nbsp; `SentenceBERT` &nbsp; `Vector DBs`
+
+<br/>
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,go,typescript,cpp&theme=dark" />
 
-**Infrastructure & Cloud**
+**Backend & Data**
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-FF6B00?style=flat-square&logo=apache&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka&theme=dark" />
 
----
+**Cloud & Infrastructure**
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform,githubactions&theme=dark" />
 
-<a href="https://github.com/banu-teja/sentinel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=sentinel&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/banu-teja/ai-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=ai-cli&theme=tokyonight&hide_border=true" />
-</a>
+</div>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Certifications & Recognition
+## 🚀 Projects
 
 <div align="center">
 
-| Award | Details |
-|-------|---------|
+[![sentinel](https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=sentinel&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/banu-teja/sentinel)&nbsp;&nbsp;[![ai-cli](https://github-readme-stats.vercel.app/api/pin/?username=banu-teja&repo=ai-cli&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/banu-teja/ai-cli)
+
+</div>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" />&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=banu-teja&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br/>
+
+## 🏆 Recognition
+
+<div align="center">
+
+| | |
+|:---|:---|
 | ☁️ **Google Cloud Professional Database Engineer** | ☁️ **Azure Data Scientist Associate (DP-100)** |
-| 🏆 **Top Talent 2023** · Persistent Systems | LLM-based SQL migration tool — showcased to Google Cloud Professional Services |
-| 🥇 **High Five Award 2024** · Persistent Systems | Exceptional problem-solving and cross-functional impact |
+| 🥇 **Top Talent 2023** · Persistent Systems | LLM SQL migration tool — showcased to Google Cloud Professional Services |
+| 🏅 **High Five Award 2024** · Persistent Systems | Exceptional problem-solving and cross-functional impact |
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=banu-teja&color=2196F3&style=flat-square)
-&nbsp;
-📍 **Hyderabad, India** · Open to relocation
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0d1117&height=100&section=footer" />
