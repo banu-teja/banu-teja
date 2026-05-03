@@ -1,144 +1,56 @@
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="
-          background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
-          padding: 30px;
-          border-radius: 20px;
-          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-          max-width: 800px;
-          margin: auto;
-          transition: all 0.3s ease;
-          ">
-          <h1 style="
-            color: #2c3e50;
-            font-size: 3em;
-            margin: 0;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-            font-weight: 700;
-            letter-spacing: -1px;
-            ">Bhanu Teja</h1>
-          <p style="
-            color: #34495e;
-            font-size: 1.5em;
-            margin: 15px 0 0;
-            font-weight: 400;
-            letter-spacing: 0.5px;
-            line-height: 1.4;
-            ">Software Developer</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
--->
-# 👋 Hi there, I'm Bhanu Teja
+# Hey, I'm Bhanu Teja 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DD5FA&center=true&vCenter=true&width=450&lines=Software+Developer;UI%2FUX+Learner)](https://git.io/typing-svg)
+**AI/ML Infrastructure Engineer · Multi-Modal Systems · Distributed Data Pipelines**
 
-</div>
+I build production AI systems — multi-modal search over 500K+ assets using CLIP embeddings, LLM-powered pipelines processing millions of records daily, and real-time voice AI with streaming ASR + TTS. Currently at **Elastiq.AI** building on-prem AI search and analytics infrastructure.
 
-## 💫 About Me
-
-- 🚀 Software Developer with 2 years of experience
-- 🔭 I'm currently developing a Chat Application, focusing on real-time messaging, security, and good UI/UX, while also building my portfolio website
-- 🌱 I'm learning Flutter, React Native, and advanced testing techniques
-- 🎨 Exploring UI/UX design to create intuitive user experiences
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about React, NextJS, GoLang, Cloud Technologies, or System Design
-- 📫 How to reach me: [bhanuteja.pappala@gmail.com](mailto:bhanuteja.pappala@gmail.com)
+📍 Hyderabad, India · Open to relocation · [banuteja.com](https://banuteja.com) · [linkedin.com/in/bhanutejap](https://linkedin.com/in/bhanutejap)
 
 ---
 
-## 🛠️ My Tech Stack
+## What I Build
 
-<div align="center">
+- **Multi-Modal AI** — CLIP-based search (LAION/clip-ViT) over 500K+ images/videos on Kubernetes + OpenSearch; vision-LLM document pipelines (Claude Sonnet) for 12+ PDF formats; hybrid retrieval combining vector similarity with LLM-extracted structured filters over 17M+ catalog items
+- **LLM Systems** — text2sql engines over BigQuery (HubSpot CRM + GA4), RAG pipelines, ML query classifiers that reduced infra cost $4.2K/month while serving 10K+ DAU, iterative SQL dialect translators showcased to Google Cloud Professional Services
+- **Data Infrastructure** — Apache Beam/GCP Dataflow pipelines processing 2.5M records/day across 15 sources with exactly-once semantics and 99.97% success rate over 8 months production
+- **Voice AI** — Real-time conversational agents with streaming ASR (Whisper) + TTS + VAD
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+## Currently
 
-### Backend
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- 🔭 Building AI/ML platform at Elastiq.AI — on-prem multi-modal search, text2sql analytics, A/B model routing, automated evaluation
+- 🌱 Starting to contribute to open source — interested in LLM tooling, ML infrastructure, vector search, and distributed systems projects
+- 💬 Ask me about AI/ML infra, GCP, multi-modal retrieval, distributed pipelines, or LLM evaluation
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+## Featured Projects
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**sentinel**](https://github.com/banu-teja/sentinel) | Production-grade distributed rate-limiting gateway — hexagonal architecture, Redis token-bucket enforcement, circuit breaker, Prometheus metrics, OpenTelemetry tracing | Go · gRPC · Redis · Terraform |
+| [**ai-cli**](https://github.com/banu-teja/ai-cli) | Natural language → executable shell commands using Gemini/Claude via LangChain Go; context-aware, multi-provider with SQLite command history | Go · LangChain · Gemini · Claude |
 
-### Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+## Tech Stack
 
-### Tools & Others
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI/ML:** LLMs (GPT, Gemini, Claude), CLIP, Whisper/TTS/VAD, RAG, SentenceBERT, Vector DBs, NER, Model Serving & Evaluation  
+**Data:** Apache Beam, GCP Dataflow, BigQuery, Pub/Sub, Kafka  
+**Languages:** Python · Go · TypeScript · C++ · SQL  
+**Backend:** FastAPI, gRPC, REST, Redis, PostgreSQL, OpenSearch, Docker, Kubernetes  
+**Cloud:** GCP (Certified) · AWS · Azure  
 
-</div>
+## Certifications & Recognition
+
+| | |
+|---|---|
+| ☁️ Google Cloud Professional Database Engineer | ☁️ Azure Data Scientist Associate (DP-100) |
+| 🏆 Top Talent 2023 · Persistent Systems | — LLM-based SQL migration tool showcased to Google Cloud Professional Services |
+| 🏆 High Five Award 2024 · Persistent Systems | — Exceptional problem-solving and cross-functional impact |
 
 ---
 
-## 🏗️ System Design & Architecture
-
-- Microservices Architecture
-- Event-Driven Architecture
-- RESTful API Design
-- GraphQL API Design
-- Scalable Database Design
-- Caching Strategies
-- Load Balancing
-- Distributed Systems
-
----
-
-## 📊 GitHub Stats
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banu-teja&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="195px" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" /> -->
-</div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banu-teja&show_icons=true&theme=radical" alt="Your GitHub Stats" height="195px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banu-teja&theme=radical" alt="Your GitHub Streak" height="195px" />
-</div> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanutejap)
+[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=About.me&logoColor=white)](https://banuteja.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhanuteja.pappala@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bhanuteja_naidu)
 
-
----
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanutejap/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhanuteja_naidu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banu-teja)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
-
-</div>
-
----
-
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/banu-teja/count.svg)
-    
 </div>
